@@ -127,11 +127,13 @@ footer {
     position: absolute;
     top: 50%;
     width: 100%;
-    padding: 5px;
+    padding: 10px;
   }
 
 .img-fluid{
-    padding-bottom: 10px;
+    border: cadetblue;
+    border-style: solid;
+    margin-bottom: 10px;
 }
 
 a{
