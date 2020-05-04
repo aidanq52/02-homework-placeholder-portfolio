@@ -6,6 +6,6 @@ To achieve this goal of developing a responsive website we incorporated bootstra
 
 Included below are select images sample webpages at different screen sizes.
 
-![](./assets/images/screenshot.png)
+![](./Assets/Images/Screenshot.png)
 
-![](./assets/images/screenshot2.png)
+![](./Assets/Images/screenshot2.png)
